@@ -1,0 +1,7 @@
+name=asd
+ip=26.40.223.135
+port=16261
+serverpassword=
+description=
+user=Ziki
+password=123

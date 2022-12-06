@@ -3431,3 +3431,63 @@ table.insert(log, {
 	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.PocketKittenBlack", registeryID = 2647, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
 	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.PocketKittenBlack", registeryID = 2647, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
 };
+log = log or {};
+table.insert(log, {
+	-- -------------------------------------------------------
+	-- Time: 2022/12/05 20:51:14
+	{
+		type = "info",
+		timeStamp = "2022/12/05 20:51:15",
+		saveWorld = "huyani4",
+		worldVersion = 194,
+		hasErrored = false,
+		itemMods = {
+			"pz-vanilla",
+			"ElliesTattooAddonTs",
+			"CosplayCostume",
+			"CosplayShop",
+			"TrueActionsDancing",
+			"ATA_Mustang",
+			"ATA_Dadge",
+			"tsarslib",
+			"PocketKittens",
+			"Ellie'sTattooParlor",
+			"uaz2206",
+			"CosplayCostume_Make",
+			"amclub",
+			"84merc",
+			"BAM",
+			"Basements",
+		},
+	},
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.KittenWhite", registeryID = 193, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.KittenWhite", registeryID = 193, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.KittenOrange", registeryID = 306, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.KittenOrange", registeryID = 306, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.KittenGray", registeryID = 706, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.KittenGray", registeryID = 706, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.PocketKittenGray", registeryID = 825, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.PocketKittenGray", registeryID = 825, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.KittenGrayStriped", registeryID = 873, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.KittenGrayStriped", registeryID = 873, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.PocketKittenOrange", registeryID = 905, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.PocketKittenOrange", registeryID = 905, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.PocketKittenCalico", registeryID = 1122, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.PocketKittenCalico", registeryID = 1122, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.KittenCalico", registeryID = 1689, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.KittenCalico", registeryID = 1689, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.TShirtILoveKitties", registeryID = 1706, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.TShirtILoveKitties", registeryID = 1706, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.PocketKittenTuxedo", registeryID = 1768, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.PocketKittenTuxedo", registeryID = 1768, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.KittenTuxedo", registeryID = 1861, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.KittenTuxedo", registeryID = 1861, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.PocketKittenWhite", registeryID = 2102, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.PocketKittenWhite", registeryID = 2102, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.KittenBlack", registeryID = 2117, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.KittenBlack", registeryID = 2117, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.PocketKittenGrayStriped", registeryID = 2208, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.PocketKittenGrayStriped", registeryID = 2208, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = false, fulltype = "PocketKitten.PocketKittenBlack", registeryID = 2647, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+	{ type = "removed_item", scriptMissing = true, fulltype = "PocketKitten.PocketKittenBlack", registeryID = 2647, existsVanilla = false, isModded = true, modID = "PocketKittens", obsolete = false, removed = true, isLoaded = false }
+};
